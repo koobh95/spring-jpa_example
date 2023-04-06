@@ -125,4 +125,7 @@ $RECYCLE.BIN/
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
+# Properties Files
+*.properties
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,eclipse,java
