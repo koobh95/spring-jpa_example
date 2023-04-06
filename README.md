@@ -2,6 +2,8 @@
 - Java 11
 - Eclipse 2021-12
 - Tomcat 9
+- Oracle 11g Express Edition
+- Oracle SQL Developer
 - Spring Legacy Project
 <br>
 Dependencies<br>
